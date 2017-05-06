@@ -1,5 +1,5 @@
 @extends('layouts.landing') 
-@section('title', 'Dashboard') 
+@section('title', 'Scrum Day Malang 2017') 
 @section('content')
 <a id="home" class="in-page-link"></a>
 
